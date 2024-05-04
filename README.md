@@ -58,4 +58,3 @@ Um dashboard financeiro usando Streamlit para visualizar dados de ações de emp
 
 ## Case 12: Aplicação Completa de Análise Exploratória
 Este caso inclui vários scripts que compõem uma aplicação completa em Streamlit para análise exploratória de dados das despesas de viagem. Cada parte da aplicação se concentra em uma visualização ou análise específica dos dados, proporcionando uma experiência completa ao usuário para explorar e entender os dados em profundidade.
-# cases_streamlit
